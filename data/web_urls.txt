@@ -1,0 +1,14 @@
+# Demo web corpus: official documentation for the stack used in this project.
+https://github.com/pgvector/pgvector
+https://www.postgresql.org/docs/17/textsearch-controls.html
+https://www.postgresql.org/docs/17/textsearch-features.html
+https://www.postgresql.org/docs/17/textsearch-tables.html
+https://www.postgresql.org/docs/17/textsearch-indexes.html
+https://fastapi.tiangolo.com/
+https://python.langchain.com/docs/concepts/rag/
+https://github.com/langchain-ai/langgraph
+https://huggingface.co/intfloat/multilingual-e5-large
+https://github.com/qdrant/fastembed
+https://trafilatura.readthedocs.io/en/latest/
+https://github.com/pymupdf/PyMuPDF
+https://12factor.net/

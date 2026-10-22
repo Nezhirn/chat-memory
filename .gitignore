@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Data and dumps
+backups/
+data/raw/
+data/private/
+data/cache/
+*.dump
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
